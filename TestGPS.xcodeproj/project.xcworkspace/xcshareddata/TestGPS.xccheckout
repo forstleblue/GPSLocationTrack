@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1ED84D6E-7F24-4D5F-A4DE-4C6037983FF5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>18f7045f-8a02-9c4b-bf16-3ceffa48ebdd++7800</key>
+		<string>http://www.xtox.net:3344/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>18f7045f-8a02-9c4b-bf16-3ceffa48ebdd++7800</key>
+		<string>Sqlite/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>18f7045f-8a02-9c4b-bf16-3ceffa48ebdd++7800</key>
+		<string>http://www.xtox.net:3344/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://www.xtox.net:3344/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>18f7045f-8a02-9c4b-bf16-3ceffa48ebdd++7800</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>18f7045f-8a02-9c4b-bf16-3ceffa48ebdd++7800</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sqlite</string>
+		</dict>
+	</array>
+</dict>
+</plist>
